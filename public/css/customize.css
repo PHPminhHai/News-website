@@ -1,0 +1,36 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+h5.card-title.font-weight-bold.title-cus {
+    position: absolute;
+    bottom: 1rem;
+}
+.card-text.time-cus {
+    position: absolute;
+    bottom: 0rem;
+}
+.topnew .list5new ul li a{
+	color: grey;
+}
+.alllastnew .fas.fa-heart {
+    position: absolute;
+    bottom: 1rem;
+    right: 1rem;
+}
+
+.col-sm-4.list5new {
+    overflow: scroll;
+    height: 400px;
+}
+.menutop{
+    background: white;
+}
+img{
+   
+    height: 250px;
+}
+.card.bg-dark.text-white.border-0 img{
+    width: 100%;
+    height: 100%;
+}

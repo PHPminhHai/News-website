@@ -1,0 +1,30 @@
+*{
+margin: 0;
+padding: 0;
+}
+
+.top_top{
+position: fixed;
+height: 50px;
+z-index: 200;
+}
+.menu_content {
+	position: relative;
+}
+.menu_content .menu_phai{
+	position: fixed;
+	top: 8%;
+	left: 0px;
+	height: 579px;
+	border-top:1px solid white;
+}
+.menu_content .noidung{
+	position: absolute;
+	top: 51px;
+	right: 0;
+	border-top:1px solid white;
+	padding: 0;
+	padding-right: 1px;
+	padding-left: 1px;
+}
+
